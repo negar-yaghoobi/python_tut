@@ -34,7 +34,7 @@ else:
 
 if 11 < 10:
     print('yes')
-elif 112 < 10:
+elif 112 <   10:
     print('yesss')
 else:
     print('no')
