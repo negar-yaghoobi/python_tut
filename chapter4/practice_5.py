@@ -5,4 +5,5 @@ middle = length//2
 if length % 2 != 0 :
     print(my_list[middle])
 else:
-    print((my_list[middle-1] + my_list[middle])/2)
+    print((my_list[middle-1] + my_list[middle])//2)
+    
