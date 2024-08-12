@@ -43,7 +43,7 @@ sum_house_1 = Houses()
 print(house_11.country)
 print(sum_house_1.country)
 
-house_11.y = 1000
+house_11.y = 1000       # instance attribute
 sum_house_1.country = 'usa'
 
 print(house_11.y)         # add new attribute to this object
