@@ -161,8 +161,8 @@ print(clock)
 
 #========================================================= part 2      # operator overloading
 
-obj1 = Time(22, 55, 49)
-obj2 = Time(22, 55, 49)
+obj1 = Time(23, 59, 59)
+obj2 = Time(23, 59, 59)
 
 # Adding the two objects
 result = obj1 + obj2
