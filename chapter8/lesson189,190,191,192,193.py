@@ -177,4 +177,5 @@ print(obj1 > obj2)                # use __gt__ in class for this operator
 
 
 #============================================= dir ()
-print(dir(obj1))
+print(dir(obj1))    
+print('\n'.join(dir(Time)))
