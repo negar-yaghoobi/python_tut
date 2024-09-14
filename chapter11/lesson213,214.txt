@@ -1,0 +1,8 @@
+# Steps to create a virtual environment :
+
+# First method: 
+(all steps do in the terminal to the project folder)
+# 1 ...> install virtualenv package ...> pip install virtualenv
+# 2 ...> create virtual environment with Favorite name ...> virtualenv Favorite name
+# 3 ...> Activation of the virtual environment (in windows) ...> .\virtualenv name\Scripts\activate
+# 3 ...> Activation of the virtual environment (in linox or mac) ...> source virtualenv name/bin/activate
