@@ -1,0 +1,7 @@
+in terminal : 
+
+# code name`s python file ------> open and run python in vscode
+
+# pip install package`s name --------> install packages in system (global)
+
+# pip uninstall package`s name --------> uninstall packages from system (global)
