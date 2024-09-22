@@ -1,16 +1,16 @@
 # Syntax Error
 
 a = 10
-b = 2 3                         # syntax error
+#b = 2 3                         # syntax error
 
-print(a b)
+#print(a b)
 
 #=============================================================
 
 # Namr Error
 
 a = 10
-b = c + 1                       # Namr Error
+#b = c + 1                       # Namr Error
 
 #=============================================================
 
@@ -56,4 +56,4 @@ print(a/b)                     # ZeroDivision Error
 #=============================================================
 # ModuleNotFoundError
 
-import mymodule
+#import mymodule
