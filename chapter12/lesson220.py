@@ -1,7 +1,7 @@
 print('start...')
 try:
     print('first...')
-    import mymodule
+    # import mymodule
 
     print(2/0)
 
