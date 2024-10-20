@@ -1,0 +1,6 @@
+qqq 10
+www 12
+eee 15
+rrr 4
+ttt 6
+yyy 7
